@@ -42,7 +42,7 @@ squarify==0.4.3
 srsly==2.4.5
 thinc==8.0.17
 tqdm==4.64.1
-typer==0.7.0
+typer
 typing_extensions==4.4.0
 update-checker==0.18.0
 urllib3==1.26.14
