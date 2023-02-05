@@ -27,8 +27,10 @@ import re   # removes links
 import en_core_web_sm
 import string
 import nltk
+import spacy
 nltk.download('vader_lexicon')
 nltk.download('wordnet')
+spacy.load('en_core_web_sm')
 
 def data_extractor(reddit):
     '''extracts all the data from reddit
