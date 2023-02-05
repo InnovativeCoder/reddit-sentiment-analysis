@@ -11,6 +11,7 @@ incomes = [
 
 @app.route('/')
 def get_incomes():
+    print("hello")
     top, picks_ayz, scores, picks, times = main()
     print("=====================================")
     print(type(top))
