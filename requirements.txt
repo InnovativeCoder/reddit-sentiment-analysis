@@ -10,6 +10,7 @@ contourpy==1.0.7
 cycler==0.11.0
 cymem==2.0.7
 emoji==1.2.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
 et-xmlfile==1.1.0
 Flask==2.2.2
 fonttools==4.38.0
