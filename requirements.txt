@@ -2,7 +2,7 @@ blis==0.7.9
 catalogue==2.0.8
 certifi==2022.12.7
 charset-normalizer==3.0.1
-click==3.0.1
+click
 cycler==0.11.0
 cymem==2.0.7
 data==0.4
